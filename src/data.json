@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+        "title": "League Of Legends",
+      "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+      "price": "Free",
+      "image": "league-of-legends.jpg",
+      "platform": "PC"
+    },
+    {
+      "id":2,
+        "title": "PlayerUnknown's BattleGrounds",
+      "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+      "price": "Paid",
+      "image": "league-of-legends.jpg",
+      "type": "sports",
+      "platform": "PC"
+    },
+    {
+        "id": 3,
+          "title": "Dark Souls 3",
+        "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+        "price": "Free",
+        "image": "league-of-legends.jpg",
+        "type": "moba",
+        "platform": "PS4"
+      },
+      {
+        "id":4,
+          "title": "CyberPunk 2077",
+        "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+        "price": "Paid",
+        "image": "league-of-legends.jpg",
+        "type": "sports",
+        "platform": "PC"
+      },
+      {
+        "id": 5,
+          "title": "Death Stranding",
+        "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+        "price": "Free",
+        "image": "league-of-legends.jpg",
+        "type": "moba",
+        "platform": "XBOX"
+      },
+      {
+        "id":6,
+          "title": "Sekiro Shadows Die Twice",
+        "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+        "price": "Paid",
+        "image": "league-of-legends.jpg",
+        "type": "sports",
+        "platform": "PS4"
+      },
+      {
+        "id": 7,
+          "title": "Red Dead Redemption",
+        "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+        "price": "Free",
+        "image": "league-of-legends.jpg",
+        "type": "moba",
+        "platform": "PS4"
+      },
+      {
+        "id":8,
+          "title": "Skyrim",
+        "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+        "price": "Paid",
+        "image": "league-of-legends.jpg",
+        "type": "sports",
+        "platform": "PC"
+      },
+      {
+          "id": 9,
+            "title": "The Witcher Wild Hunt",
+          "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+          "price": "Free",
+          "image": "league-of-legends.jpg",
+          "type": "moba",
+          "platform": "PC"
+        },
+        {
+          "id":10,
+            "title": "Ghost of Tsushima",
+          "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+          "price": "Paid",
+          "image": "league-of-legends.jpg",
+          "type": "sports",
+          "platform": "PS4"
+        },
+        {
+          "id": 11,
+            "title": "Control",
+          "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+          "price": "Free",
+          "image": "league-of-legends.jpg",
+          "type": "moba",
+          "platform": "PS4"
+        },
+        {
+          "id":12,
+            "title": "Apex Legends",
+          "description": "TWTPlay a 5 on 5 multiplayer online battle arena with over 100 characters and a very competitive scene.",
+          "price": "Paid",
+          "image": "league-of-legends.jpg",
+          "type": "sports",
+          "platform": "PS4"
+        }
+  ]
+}
