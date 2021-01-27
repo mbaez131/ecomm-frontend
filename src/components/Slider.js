@@ -2,7 +2,8 @@ import React from 'react';
 
 const Slider = () => {
     return(
-        <div class="slider">
+<div className="wrapper">
+  <div className="slider">
   
   <a href="#slide-1">1</a>
   <a href="#slide-2">2</a>
@@ -10,7 +11,7 @@ const Slider = () => {
   <a href="#slide-4">4</a>
   <a href="#slide-5">5</a>
 
-  <div class="slides">
+  <div className="slides">
     <div id="slide-1">
       1
     </div>
@@ -27,6 +28,7 @@ const Slider = () => {
       5
     </div>
   </div>
+</div>
 </div>
     )
 }

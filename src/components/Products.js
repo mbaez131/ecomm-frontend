@@ -1,5 +1,6 @@
 import Data from "../data.json";
 import React, { Component } from "react";
+
 const PRICE_FILTER_OPTION_ALL = "All";
 const PRICE_FILTER_OPTION_FREE = "Free";
 const PRICE_FILTER_OPTION_PAID = "Paid";
@@ -58,7 +59,7 @@ class Products extends Component {
 
     return (
       <div className="products-container">
-        <div style={{ backgroundColor: "orange", margin: 15 }}>
+        <div className="products-flex">
           <select
             className="priceFilter"
             name="priceFilter"
@@ -78,9 +79,10 @@ class Products extends Component {
               onChange={(e) => this.handlePlatformFilterOnChange(e)}
             />
           </div>
+
         </div>
 
-        <div style={{ backgroundColor: "orange", margin: 15 }}>
+        <div className="product-flexer">
           {this.getFilteredProducts().map((card) => {
             return (
               <div key={card.id} className="card">
