@@ -1,5 +1,6 @@
-import React from "react";
+import React, { Fragment } from "react";
 import Slider from "./Slider";
+
 
 export default function Test() {
   return (

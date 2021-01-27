@@ -146,6 +146,7 @@ li a:hover {
     
     scroll-behavior: smooth;
     -webkit-overflow-scrolling: touch;
+    border-radius: 25px;
     
   }
   .slides::-webkit-scrollbar {
@@ -364,4 +365,25 @@ font-family: "Times New Roman", Times, serif;;
   margin-right: 10px;
 }
 
+.image-sliders {
+  border-radius: 25px;
+}
 
+#slide-1 {
+  border-radius: 25px;
+}
+#slide-2 {
+  border-radius: 25px;
+}
+#slide-3 {
+  border-radius: 25px;
+}
+#slide-4 {
+  border-radius: 25px;
+}
+#slide-5 {
+  border-radius: 25px;
+}
+.svg-inline--fa {
+  transform: translate(0px, -12px);
+}

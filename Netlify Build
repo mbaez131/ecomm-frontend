@@ -1,0 +1,163 @@
+10:41:24 PM: Build ready to start
+10:41:26 PM: build-image version: d84c79427e8f83c1ba17bcdd7b3fe38059376b68
+10:41:26 PM: build-image tag: v3.6.1
+10:41:26 PM: buildbot version: 44655717ddf0e7bd7f856f5b1154254de54b1d80
+10:41:26 PM: Fetching cached dependencies
+10:41:26 PM: Failed to fetch cache, continuing with build
+10:41:26 PM: Starting to prepare the repo for build
+10:41:27 PM: No cached dependencies found. Cloning fresh repo
+10:41:27 PM: git clone https://github.com/mbaez131/ecomm-frontend
+10:41:28 PM: Preparing Git Reference refs/heads/master
+10:41:29 PM: Different publish path detected, going to use the one specified in the Netlify configuration file: 'build' versus 'build/' in the Netlify UI
+10:41:29 PM: Starting build script
+10:41:30 PM: Installing dependencies
+10:41:30 PM: Python version set to 2.7
+10:41:31 PM: v12.18.0 is already installed.
+10:41:32 PM: Now using node v12.18.0 (npm v6.14.4)
+10:41:32 PM: Started restoring cached build plugins
+10:41:32 PM: Finished restoring cached build plugins
+10:41:32 PM: Attempting ruby version 2.7.1, read from environment
+10:41:34 PM: Using ruby version 2.7.1
+10:41:34 PM: Using PHP version 5.6
+10:41:34 PM: Started restoring cached node modules
+10:41:34 PM: Finished restoring cached node modules
+10:41:34 PM: Installing NPM modules using NPM version 6.14.4
+10:42:17 PM: > @fortawesome/fontawesome-common-types@0.2.34 postinstall /opt/build/repo/node_modules/@fortawesome/fontawesome-common-types
+10:42:17 PM: > node attribution.js
+10:42:17 PM: Font Awesome Free 0.2.34 by @fontawesome - https://fontawesome.com
+10:42:17 PM: License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+10:42:18 PM: > core-js@2.6.12 postinstall /opt/build/repo/node_modules/babel-runtime/node_modules/core-js
+10:42:18 PM: > node -e "try{require('./postinstall')}catch(e){}"
+10:42:18 PM: > core-js@3.8.3 postinstall /opt/build/repo/node_modules/core-js
+10:42:18 PM: > node -e "try{require('./postinstall')}catch(e){}"
+10:42:18 PM: > core-js-pure@3.8.3 postinstall /opt/build/repo/node_modules/core-js-pure
+10:42:18 PM: > node -e "try{require('./postinstall')}catch(e){}"
+10:42:18 PM: > ejs@2.7.4 postinstall /opt/build/repo/node_modules/ejs
+10:42:18 PM: > node ./postinstall.js
+10:42:19 PM: > @fortawesome/fontawesome-svg-core@1.2.34 postinstall /opt/build/repo/node_modules/@fortawesome/fontawesome-svg-core
+10:42:19 PM: > node attribution.js
+10:42:19 PM: Font Awesome Free 1.2.34 by @fontawesome - https://fontawesome.com
+10:42:19 PM: License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+10:42:19 PM: > @fortawesome/free-brands-svg-icons@5.15.2 postinstall /opt/build/repo/node_modules/@fortawesome/free-brands-svg-icons
+10:42:19 PM: > node attribution.js
+10:42:19 PM: Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com
+10:42:19 PM: License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+10:42:19 PM: > @fortawesome/free-solid-svg-icons@5.15.2 postinstall /opt/build/repo/node_modules/@fortawesome/free-solid-svg-icons
+10:42:19 PM: > node attribution.js
+10:42:19 PM: Font Awesome Free 5.15.2 by @fontawesome - https://fontawesome.com
+10:42:19 PM: License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+10:42:22 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/webpack-dev-server/node_modules/fsevents):
+10:42:22 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+10:42:22 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/watchpack-chokidar2/node_modules/fsevents):
+10:42:22 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+10:42:22 PM: npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.1 (node_modules/fsevents):
+10:42:22 PM: npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+10:42:22 PM: added 1947 packages from 780 contributors and audited 1953 packages in 47.045s
+10:42:24 PM: 126 packages are looking for funding
+10:42:24 PM:   run `npm fund` for details
+10:42:24 PM: found 0 vulnerabilities
+10:42:24 PM: NPM modules installed
+10:42:25 PM: Started restoring cached go cache
+10:42:25 PM: Finished restoring cached go cache
+10:42:25 PM: go version go1.14.4 linux/amd64
+10:42:25 PM: go version go1.14.4 linux/amd64
+10:42:25 PM: Installing missing commands
+10:42:25 PM: Verify run directory
+10:42:27 PM: ​
+10:42:27 PM: ────────────────────────────────────────────────────────────────
+10:42:27 PM:   Netlify Build                                                 
+10:42:27 PM: ────────────────────────────────────────────────────────────────
+10:42:27 PM: ​
+10:42:27 PM: ❯ Version
+10:42:27 PM:   @netlify/build 8.3.0
+10:42:27 PM: ​
+10:42:27 PM: ❯ Flags
+10:42:27 PM:   deployId: 6010e0e428223f85708337be
+10:42:27 PM:   mode: buildbot
+10:42:27 PM: ​
+10:42:27 PM: ❯ Current directory
+10:42:27 PM:   /opt/build/repo
+10:42:27 PM: ​
+10:42:27 PM: ❯ Config file
+10:42:27 PM:   No config file was defined: using default values.
+10:42:27 PM: ​
+10:42:27 PM: ❯ Context
+10:42:27 PM:   production
+10:42:27 PM: ​
+10:42:27 PM: ────────────────────────────────────────────────────────────────
+10:42:27 PM:   1. Build command from Netlify app                             
+10:42:27 PM: ────────────────────────────────────────────────────────────────
+10:42:27 PM: ​
+10:42:27 PM: $ CI= npm run build
+10:42:27 PM: > ecomm-frontend@0.1.0 build /opt/build/repo
+10:42:27 PM: > react-scripts build
+10:42:29 PM: Creating an optimized production build...
+10:42:46 PM: Creating deploy upload records
+10:42:46 PM: Compiled with warnings.
+10:42:46 PM: 
+10:42:46 PM: src/App.js
+10:42:46 PM:   Line 9:8:  'Slider' is defined but never used  no-unused-vars
+10:42:46 PM: src/components/Contact.js
+10:42:46 PM:   Line 42:34:  'formErrors' is assigned a value but never used  no-unused-vars
+10:42:46 PM: src/components/Products.js
+10:42:46 PM:   Line 89:17:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+10:42:46 PM: Search for the keywords to learn more about each warning.
+10:42:46 PM: To ignore, add // eslint-disable-next-line to the line before.
+10:42:46 PM: File sizes after gzip:
+10:42:46 PM:   61.84 KB  build/static/js/2.9bc06b39.chunk.js
+10:42:46 PM:   19.36 KB  build/static/js/main.65db5495.chunk.js
+10:42:46 PM:   1.63 KB   build/static/css/main.59915d04.chunk.css
+10:42:46 PM:   1.4 KB    build/static/js/3.56ddba06.chunk.js
+10:42:46 PM:   1.17 KB   build/static/js/runtime-main.778cddf9.js
+10:42:46 PM: The project was built assuming it is hosted at /.
+10:42:46 PM: You can control this with the homepage field in your package.json.
+10:42:46 PM: The build folder is ready to be deployed.
+10:42:46 PM: You may serve it with a static server:
+10:42:46 PM:   npm install -g serve
+10:42:46 PM:   serve -s build
+10:42:46 PM: Find out more about deployment here:
+10:42:46 PM:   https://cra.link/deployment
+10:42:46 PM: ​
+10:42:46 PM: (build.command completed in 19s)
+10:42:46 PM: ​
+10:42:46 PM: ────────────────────────────────────────────────────────────────
+10:42:46 PM:   2. Deploy site                                                
+10:42:46 PM: ────────────────────────────────────────────────────────────────
+10:42:46 PM: ​
+10:42:46 PM: Starting to deploy site from 'build'
+10:42:46 PM: Creating deploy tree 
+10:42:46 PM: 12 new files to upload
+10:42:46 PM: 0 new functions to upload
+10:42:46 PM: Site deploy was successfully initiated
+10:42:46 PM: ​
+10:42:46 PM: (Deploy site completed in 649ms)
+10:42:46 PM: ​
+10:42:46 PM: ────────────────────────────────────────────────────────────────
+10:42:46 PM:   Netlify Build Complete                                        
+10:42:46 PM: ────────────────────────────────────────────────────────────────
+10:42:46 PM: ​
+10:42:46 PM: (Netlify Build completed in 19.7s)
+10:42:47 PM: Starting post processing
+10:42:47 PM: Caching artifacts
+10:42:47 PM: Started saving node modules
+10:42:47 PM: Post processing - HTML
+10:42:47 PM: Finished saving node modules
+10:42:47 PM: Started saving build plugins
+10:42:47 PM: Finished saving build plugins
+10:42:47 PM: Started saving pip cache
+10:42:47 PM: Post processing - header rules
+10:42:47 PM: Finished saving pip cache
+10:42:47 PM: Started saving emacs cask dependencies
+10:42:47 PM: Post processing - redirect rules
+10:42:47 PM: Finished saving emacs cask dependencies
+10:42:47 PM: Started saving maven dependencies
+10:42:47 PM: Finished saving maven dependencies
+10:42:47 PM: Started saving boot dependencies
+10:42:47 PM: Post processing done
+10:42:47 PM: Finished saving boot dependencies
+10:42:47 PM: Started saving rust rustup cache
+10:42:47 PM: Finished saving rust rustup cache
+10:42:47 PM: Started saving go dependencies
+10:42:47 PM: Finished saving go dependencies
+10:42:47 PM: Site is live ✨
+10:42:50 PM: Build script success
